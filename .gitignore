@@ -1,0 +1,9 @@
+# Build dependencies and output folder
+/build/
+
+# Visual Studio generated files and folders
+.vs/
+*.user
+
+# Secrets and configuration
+/*.json

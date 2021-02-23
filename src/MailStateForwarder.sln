@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailStateForwarder", "MailStateForwarder\MailStateForwarder.csproj", "{4C240892-08D7-4078-8811-0C148FEE4891}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailStateForwarder.Bootstrap", "MailStateForwarder.Bootstrap\MailStateForwarder.Bootstrap.csproj", "{7737C8CB-B333-460D-A4BD-3FAD0C67B41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C240892-08D7-4078-8811-0C148FEE4891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C240892-08D7-4078-8811-0C148FEE4891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C240892-08D7-4078-8811-0C148FEE4891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C240892-08D7-4078-8811-0C148FEE4891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7737C8CB-B333-460D-A4BD-3FAD0C67B41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7737C8CB-B333-460D-A4BD-3FAD0C67B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7737C8CB-B333-460D-A4BD-3FAD0C67B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7737C8CB-B333-460D-A4BD-3FAD0C67B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549DD735-D238-40E7-B541-E8EE5F7B0277}
+	EndGlobalSection
+EndGlobal
